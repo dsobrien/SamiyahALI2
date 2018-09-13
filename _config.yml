@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: Airspace
 subtitle: "A free HTML5 agency template"
-url: "determined-noether-06f1d6.netlify.com" # the base hostname & protocol for your site
+url: "https://determined-noether-06f1d6.netlify.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: "https://determined-noether-06f1d6.netlify.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
