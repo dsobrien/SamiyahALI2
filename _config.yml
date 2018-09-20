@@ -31,7 +31,7 @@ markdown: kramdown
 # Category descriptions (for archive pages)
 descriptions:
   - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+    desc: "Building and protecting families and their assets"
 
   - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "Building and protecting families and their assets"
