@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: Samiyah Ali
 subtitle: "A free HTML5 agency template"
-url: "https://insuresavant.netlify.com" # the base hostname & protocol for your site
+url: "https://insuresavant.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "https://insuresavant.netlify.com"
+baseurl: "https://insuresavant.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
